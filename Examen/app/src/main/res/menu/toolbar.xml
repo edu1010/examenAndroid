@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/plats"
+        android:enabled="true"
+        android:icon="@android:drawable/star_big_on"
+        android:title="platos" />
+    <item
+        android:id="@+id/realizarReserva"
+        android:icon="@mipmap/ic_launcher"
+        android:title="realizarReserva" />
+    <item
+        android:id="@+id/visualizarReservas"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="visualizarReservas" />
+</menu>
